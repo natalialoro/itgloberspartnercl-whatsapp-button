@@ -9,7 +9,7 @@ type Props = {
     height: number //80px
 }
 const WhatsappButton = ({ logo, phone, message, width, height  }: Props) => {
-    const formattedMessage = message.replace(/ /g, "20%")
+    const formattedMessage = message.replace(/ /g, " ")
     console.log("Mi mensaje formateado es", formattedMessage, logo)
     return <>
         <div className='fixed bottom-2 right-2 flex flexColumn' >
@@ -37,8 +37,8 @@ WhatsappButton.propTypes = {
 }
 WhatsappButton.defaultProps = {
     logo: "mi-logo.png",
-    phone: "3004507575",
-    message: "Estás comunicándote con VTEX University, por favor ingresa tu duda",
+    phone: "3144073033",
+    message: "Si tienes alguna inquietud comunicate con nosotros",
     width: 80,
     height: 80,
 }
