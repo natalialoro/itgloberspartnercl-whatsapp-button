@@ -1,3 +1,3 @@
-import WhatsappButton from "./components/Whatsappbutton";
+import WhatsappButton from "./components/WhatsappButton";
 
 export default WhatsappButton;
