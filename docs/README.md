@@ -27,8 +27,7 @@ Configurar el Manifest.json basado en el siguiente ejemplo:
 "version": "0.0.1",
 "title": "WhatsApp Button Component"
 }
-
-
+```
 ## Paso 4 - Instalar apps necesarias
 
 Acceda a la carpeta React por medio de el comando cd react, una vez ubicado en esta carpeta ejecute el comando yarn install el cual instalara todas las dependencias necesarias para la ejecución de el componente.
