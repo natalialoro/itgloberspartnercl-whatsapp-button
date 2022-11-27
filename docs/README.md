@@ -20,12 +20,14 @@ Luego, acceda al directorio del repositorio usando su terminal.
 
 Configurar el Manifest.json basado en el siguiente ejemplo:
 
+```json
 {
 "vendor": "itgloberspartnercl",
 "name": "whatsapp-button",
 "version": "0.0.1",
 "title": "WhatsApp Button Component"
 }
+
 
 ## Paso 4 - Instalar apps necesarias
 
